@@ -1,0 +1,7 @@
+2025-05-21 09:26:12 [INFO] - Logger initialized. Log file: D:\Pytest_Selenium\test-results\logs\test_log_2025-05-21_09-26-12.log
+2025-05-21 09:26:12 [INFO] - Navigating to: https://automationexercise.com/login
+2025-05-21 09:26:15 [INFO] - Navigated to base URL
+2025-05-21 09:26:15 [INFO] - Screenshot saved and attached: D:\Pytest_Selenium\test-results\screenshots\test_invalid_login_Invalid Login Page_20250521_092615.png
+2025-05-21 09:26:17 [INFO] - Submitted invalid login form
+2025-05-21 09:26:17 [INFO] - Screenshot saved and attached: D:\Pytest_Selenium\test-results\screenshots\test_invalid_login_After Invalid Login Submit_20250521_092617.png
+2025-05-21 09:26:18 [INFO] - Screenshot saved and attached: D:\Pytest_Selenium\test-results\screenshots\test_invalid_login_Validation Error Displayed_20250521_092617.png

@@ -1,0 +1,4 @@
+2025-05-21 08:27:26 [INFO] - Logger initialized. Log file: D:\Pytest_Selenium\test-results\logs\test_log_2025-05-21_08-27-26.log
+2025-05-21 08:27:28 [INFO] - Navigated to the base url
+2025-05-21 08:27:29 [INFO] - Waiting for the Element
+2025-05-21 08:27:37 [INFO] - Screenshot saved and attached: D:\Pytest_Selenium\tests\test_results\screenshots\test_valid_login_Homepage is available_20250521_082736.png

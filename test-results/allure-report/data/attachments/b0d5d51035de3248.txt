@@ -1,0 +1,1 @@
+[32mINFO    [0m test_framework:logger_util.py:66 Logger initialized. Log file: D:\Pytest_Selenium\test-results\logs\test_log_2025-05-22_08-48-25.log

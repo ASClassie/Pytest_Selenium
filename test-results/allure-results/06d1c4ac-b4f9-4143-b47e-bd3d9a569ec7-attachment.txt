@@ -1,0 +1,7 @@
+[32mINFO    [0m test_framework:logger_util.py:66 Logger initialized. Log file: D:\Pytest_Selenium\test-results\logs\test_log_2025-05-21_12-44-24.log
+[32mINFO    [0m test_framework:logger_util.py:66 Navigating to: https://automationexercise.com/login
+[32mINFO    [0m test_framework:logger_util.py:66 Navigated to base URL
+[32mINFO    [0m test_framework:logger_util.py:66 Screenshot saved and attached: D:\Pytest_Selenium\test-results\screenshots\test_valid_login_Login Page_20250521_124427.png
+[32mINFO    [0m test_framework:logger_util.py:66 Submitted login form
+[32mINFO    [0m test_framework:logger_util.py:66 Screenshot saved and attached: D:\Pytest_Selenium\test-results\screenshots\test_valid_login_After Login Submit_20250521_124437.png
+[32mINFO    [0m test_framework:logger_util.py:66 Screenshot saved and attached: D:\Pytest_Selenium\test-results\screenshots\test_valid_login_Homepage_20250521_124437.png
